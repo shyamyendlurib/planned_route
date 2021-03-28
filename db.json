@@ -16,7 +16,7 @@
           "latitude": 52.123623,
           "longitude": 5.051931
         },
-        "min_time": "2017-11-13T07:00:00.000000Z",
+        "min_time": "2017-11-13T07:01:00.000000Z",
         "max_time": "2017-11-13T07:45:00.000000Z",
         "current_state": "planned",
         "delivery_order_index": 0,
